@@ -21,5 +21,5 @@ Run the application - `DATABASE_URL={YOUR_POSTGRES_DATABASE_URL} PORT={YOUR_PORT
  NOTES:
  - You should use at least node version 5.7
  - The API should follow RESTful practices
- - The code style defined in the `.jscsrc` and `.jshintrc` files should be followed
+ - The code style defined in the `.jscsrc` and `.jshintrc` files should be followed - this can be validated using the jscs and jshint node modules.
  - Bonus points will be given for useful abstraction
